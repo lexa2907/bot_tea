@@ -1,0 +1,9 @@
+idea
+.idea
+settings.py
+venv
+static 
+__pycache__
+db.sqlite3
+order_number.json
+logs
